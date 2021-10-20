@@ -26,6 +26,16 @@ export const projects = [
     visit: 'https://create.arduino.cc/projecthub/utkarshverma294/ble-armband-for-covid-19-b59417',
     id: 2,
   },
+  {
+    title: 'Trivia-Quiz',
+    description: "Using React.js and Typescript developed a quiz game that enables user to write answers and then fetches data from a specific API to compare the answers given and then displays whether the answer is coreect or incorrect. ",
+      image: '/images/react.png',
+      tags: ['React.js','Typescript'],
+    source: 'https://github.com/Eren-Yeaager',
+    visit: 'https://github.com/Eren-Yeaager/React-quiz',
+    id: 3,
+  },
+  
   
 ];
 

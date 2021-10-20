@@ -15,7 +15,12 @@ const projectsDemo=[
 {
  title:"Project 3",
  description:"This is important"
-}
+},
+{
+  title:"Project 4",
+  description:"This is important"
+ }
+
 ];
 const Projects = () => (
  <Section nopadding id="projects">
